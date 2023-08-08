@@ -1,0 +1,228 @@
+@media(min-width: 1128px) and (max-width:1654px){
+    .font{
+        font-size: 1.8rem;
+    }
+    #container_2{
+        top: 23vw;
+    }
+    .cards{
+        width: 100%;
+    }
+    #certificates{
+        font-size: 13px;
+    }
+}
+@media(max-width:1127px) and (min-width:900px){
+    
+    .font{
+        font-size: 1.4rem;
+    }
+    #resumelink{
+        width: 50%;
+        font-size: 15px;
+    }
+    #container_2{
+        left: 67vw;
+        top: 25vw;
+    }
+    #container_1{
+        left: 65vw;
+        top: 23vw;
+        top: 24vw;
+    }
+    .cards{
+        width: 100%;
+    }
+    .img{
+        width: 43%;
+    }
+    #question{
+        height: 350px;
+        width: 350px;
+    }
+    .skills h2{
+        font-size: 1.5rem;
+    }
+    #list{
+        font-size: 15px;
+        line-height: 40px;
+    }
+
+    .awards h2 {
+    font-size: 1.5rem;
+    font-weight: 1000;
+    letter-spacing: 20px;
+    }
+    .awards p {
+    font-size: 15px;
+    letter-spacing: 1px;
+    line-height: 20px;
+    }
+    #certificates{
+    font-size: 11px;
+    }
+    .projects h2 {
+        font-size: 1.5rem;
+        font-weight: 1000;
+        letter-spacing: 30px;
+    }
+    #project {
+        line-height: 55px;
+        font-size: 18px;
+        /* text-align: right; */
+        align-content: center;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        width: 65%;
+    }
+    #team{
+        height: 350px;
+    }
+    .info h2{
+        font-size: 1.5rem;
+        letter-spacing: 15px;
+    }
+    #Involved {
+    font-size: 15px;
+    letter-spacing: 3px;
+    line-height: 20px;
+    }
+    .info p{
+    font-size: 15px;
+    letter-spacing: 1px;
+    }
+    #footer{
+    font-size: 1.5rem;
+    letter-spacing: 20px;
+    }
+    .card{
+    width: 65%;
+    }
+    .tel{
+    /* position: relative; */
+    width: 40%;
+    gap: 12px;
+    }
+}
+@media(min-width:600px) and (max-width:900px){
+    #logo{
+        height: 65px;
+        width: 129px;
+    }
+    .font{
+    font-size: 14px;
+    }
+    #resumelink{
+    left: 50px;
+    font-size: 11px;
+    width: 57%;
+    }
+    .myself{
+        height: 100px;
+        width: 76%;
+    }
+    #boy-image{
+        width: 153px;
+        height: 133px; ;
+    }
+    #bg{
+        height: 150px;
+        width: 150px;
+    }
+    #whoami{
+        margin: 0px;
+    }
+    #whoami h2{
+        font-size: 1.5rem;
+        letter-spacing: 1px;
+    }
+    #whoami p{
+        font-size: 10px;
+        letter-spacing: 1px;
+        line-height: 20px;
+    }
+    .img{
+        height: 314px;
+        width: 47%;
+    }
+    #question {
+        height: 250px;
+    }
+    #probsol{
+        height: 250px;
+    }
+    .skills h2{
+        font-size: 1.2em;
+        letter-spacing: 2px;
+    }
+    #list{
+    line-height: 35px;
+    font-size: 13px;
+    }
+    .awards h2 {
+        font-size: 1.2em;
+        font-weight: 1000;
+        letter-spacing: 10px;
+      }
+    .awards p {
+        font-size: 10px;
+        letter-spacing: 1px;
+        line-height: 20px;
+      }
+      #certificates {
+        /* list-style: none; */
+        line-height: 30px;
+        font-size: 10px;
+        width: 254px;
+      }
+      #award-pics{
+    height: 253px;
+    width: 90%;
+      }
+      .projects h2 {
+        font-size: 1.2em;
+        font-weight: 1000;
+        letter-spacing: 23px;
+      }
+      #project{
+        line-height: 40px;
+font-size: 12px;
+      }
+      .info{
+        width: 45%;
+        gap: 0px;
+      }
+      .info p{
+        font-size: 12px;
+      }
+      .info h2{
+        font-size :1.2em;
+        letter-spacing: 17px;
+      }
+      #Involved {
+        font-size: 10px;
+        letter-spacing: 2px;
+        line-height: 20px;
+      }
+      #team {
+        width: 50%;
+        height: 375px;}
+        #footer{
+            font-size: 1.2em;
+        }
+        .tel{
+            width: 70%;
+        }
+        .add{
+            width: 85%;
+            gap: 15px;
+        }
+        .card{
+            width: 65%;
+        }
+        .email{
+            width: 100%;
+            gap: 5px;
+        }
+}
